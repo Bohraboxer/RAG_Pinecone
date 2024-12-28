@@ -6,3 +6,4 @@ pycache/
 .vscode/
 /temp/
 tr.ipynb
+app.py
