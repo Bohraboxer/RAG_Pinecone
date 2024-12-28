@@ -11,6 +11,9 @@ This project provides an AI-based system that answers questions from a PDF docum
 ## Installation
 
 Follow these steps to set up and run the project locally.
+``` bash
+python app_flask.py
+```
 
 ### Prerequisites
 - Python 3.9 or higher
