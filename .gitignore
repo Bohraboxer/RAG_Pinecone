@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+pycache/
+/data/
+.env
+.vscode/
+/temp/
+tr.ipynb
